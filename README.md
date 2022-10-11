@@ -1,4 +1,4 @@
-# PKDD99_ClasificadorDeClientes_DataScience_Project
+# PKDD99: Clasificador De Clientes - DataScience Project
 
 ## Transacciones bancarias checas anónimas reales, información de la cuenta y registros de préstamos publicados para PKDD'99 Discovery Challenge.
 
